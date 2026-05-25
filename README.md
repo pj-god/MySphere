@@ -37,7 +37,7 @@ MySphere is a private social media inspired MERN application where you can creat
 Clone the repository:
 
 ```bash
-git clone YOUR_REPO_LINK
+git clone https://github.com/pj-god/MySphere.git
 ```
 
 Install frontend dependencies:
